@@ -5,7 +5,7 @@ new Chart(ctx, {
   data: {
     labels: ['Kerja', 'Universitas', 'Nganggur'],
     datasets: [{
-      label: 'Perbadndingan melanjutkan kuliah atau bekerja',
+      label: 'Perbandingan melanjutkan kuliah atau bekerja',
       data: [12, 19, 3],
       borderWidth: 1
     }]
